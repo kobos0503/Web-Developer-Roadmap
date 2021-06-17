@@ -5,3 +5,5 @@ https://roadmap.sh/
 
 https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?ref=leftbar-rightbar
 
+<h3>Basic Tools and Software for Web Development </h3>
+
