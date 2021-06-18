@@ -116,13 +116,24 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + Kotlin: Javalin, KTor
 
 ## Database (Choose One)
-+ Relational Database: RDBMS is still the most popular database. PostgreSQL, MySQL, MS SQL is still most preferred to use.
-+ NoSQL: MongoDB, CouchDB, Elasticsearch
-+ Cloud Database: Firebase, Azure Could DB, AWS
-+ Lightweight & Cache: Redis, SQLite
++ Relational Database
+  + PostgreSQL, MySQL, MS SQL
++ NoSQL
+  + MongoDB, CouchDB, Elasticsearch
++ Cloud Database
+  + Firebase, Azure Could DB, AWS
++ Lightweight & Cache
+  + Redis, SQLite
++ GraphQL
 
+## Testing
+Unit Tests
+Integration Testing
+End-to-End Tests
 
-
+## Content Management
++ Traditional CMS: WordPress (PHP), Drupal(PHP), Keystone (JavaScript), Enduro (JavaScript)
++ Headless CMS: (Getting popularity in 2021) Contentful, Prismic.io, Strapi, Sanity.io.
 
 
 
