@@ -93,5 +93,37 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
   + Jekyll (Ruby Based)
   + Hugo (Go based)
 
+## Server-Side Language (Choose One)
++ NodeJS (Not a language but a runtime environment)
++ Python (Good for absolute beginners)
++ Java (Good for a large organization)
++ Php (Good for freelancing)
++ Ruby (Less popular in 2020)
++ C#
++ Kotlin
++ Golang
++ Deno
++ 어떤 언어를 배우든 data structures and algorithms, Software design patterns
+
+## Server-Side Framework (Choose One)
++ Node.js– Express, Koa, Adonis, Feather.js, Nest.js, Loopback
++ Python: Django, Flask,
++ Java: Spring MVC, Grails
++ PHP: Laravel, Symfony, Codeignitor, Slim
++ Ruby: Ruby on Rails, Sinatra
++ C#: ASP.NET
++ Go: Revel
++ Kotlin: Javalin, KTor
+
+## Database (Choose One)
++ Relational Database: RDBMS is still the most popular database. PostgreSQL, MySQL, MS SQL is still most preferred to use.
++ NoSQL: MongoDB, CouchDB, Elasticsearch
++ Cloud Database: Firebase, Azure Could DB, AWS
++ Lightweight & Cache: Redis, SQLite
+
+
+
+
+
 
 
