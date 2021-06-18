@@ -3,7 +3,7 @@
 2021.06.19 기준
 + 배운 것
   + Java, Spring Framework, JSP, Eclipse, Unit Tests, Oracle, HTML, CSS, JavaScript, Git, GitHub, Apache, Tomcat
-+ 배울 것
++ 배울 것, 배우고 싶은 것
   + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
 
 https://roadmap.sh/
