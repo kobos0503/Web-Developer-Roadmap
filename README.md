@@ -6,7 +6,12 @@
   + Spring Framework
     + legacy, boot
     + IOC(DI, DL), AOP, MVC 
-  + JSP, Eclipse, Unit Tests, Oracle, HTML, CSS, JavaScript, Git, GitHub, Apache, Tomcat
+  + JSP, Eclipse, Unit Tests, Oracle, 
+  + HTML, CSS, 
+  + JavaScript
+    + vanilla 
+    + jquery 
+  + Git, GitHub, Apache, Tomcat
 + 배울 것
   + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
 
