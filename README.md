@@ -118,9 +118,9 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + GraphQL
 
 ## Testing
-**Unit Tests**
-Integration Testing
-End-to-End Tests
++ **Unit Tests**
++ Integration Testing
++ End-to-End Tests
 
 ## Content Management
 + Traditional CMS: WordPress (PHP), Drupal(PHP), Keystone (JavaScript), Enduro (JavaScript)
