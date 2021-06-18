@@ -28,22 +28,19 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
   + Colors, fonts, positioning, box-model etc.  
   + CSS Grid and Flexbox to align things or create columns.
   + CSS Custom Properties
-
-## Responsive Layouts
-+ Learn how to set the viewport
-+ Media queries for different screen sizes.
-+ Fluid Widths
-+ rem units
-+ Mobile First
-
-## Custom Reusable CSS Components
-+ **scss**
-
-## CSS Frameworks
-+ **Bootstrap**
-+ Tailwind CSS
-+ Materialize
-+ Bulma
+  + Responsive Layouts
+    + Learn how to set the viewport
+    + Media queries for different screen sizes.
+    + Fluid Widths
+    + rem units
+    + Mobile First
+  + Custom Reusable CSS Components
+    + **scss**
+  + CSS Frameworks
+    + **Bootstrap**
+    + Tailwind CSS
+    + Materialize
+    + Bulma
 
 ## UI Design
 + Color and Contrast
@@ -90,10 +87,10 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
   + NuxtJS (Vue)
   + Angular Universal (Angular)
 + Static Site Generators
-  + Gatsby (React), 
-  + Gridsome (Vue), 
-  + 11ty (JS alternatives to Jekyll), 
-  + Jekyll (Ruby Based), 
+  + Gatsby (React)
+  + Gridsome (Vue)
+  + 11ty (JS alternatives to Jekyll)
+  + Jekyll (Ruby Based)
   + Hugo (Go based)
 
 
