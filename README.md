@@ -29,7 +29,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
   + CSS Grid and Flexbox to align things or create columns.
   + CSS Custom Properties
   + Responsive Layouts
-    + Learn how to set the viewport
+    + viewport
     + Media queries for different screen sizes.
     + Fluid Widths
     + rem units
@@ -37,10 +37,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
   + Custom Reusable CSS Components
     + **SCSS**
   + CSS Frameworks
-    + **Bootstrap**
-    + Tailwind CSS
-    + Materialize
-    + Bulma
+    + **Bootstrap**, Tailwind CSS, Materialize, Bulma
 
 ## UI Design
 + Color and Contrast
@@ -57,7 +54,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + HTTP Requests Fetch API- GET, POST, PUT, DELETE
 
 ## 다른 주요한 툴들
-+ Git (Version Control) & Github
++ **Git (Version Control) & Github**
 + Browser Dev Tools
 + IDEs or text editors add extensions or plugins 
 + Learn to use the JavaScript package manager such as NPM and Yarn
@@ -83,20 +80,14 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 ## Optional to Learn
 + TypeScript
 + server-side rendering
-  + NextJS (React)
-  + NuxtJS (Vue)
-  + Angular Universal (Angular)
+  + NextJS (React), NuxtJS (Vue), Angular Universal (Angular)
 + Static Site Generators
-  + Gatsby (React)
-  + Gridsome (Vue)
-  + 11ty (JS alternatives to Jekyll)
-  + Jekyll (Ruby Based)
-  + Hugo (Go based)
+  + Gatsby (React), Gridsome (Vue), 11ty (JS alternatives to Jekyll), Jekyll (Ruby Based), Hugo (Go based)
 
 ## Server-Side Language (Choose One)
 + NodeJS (Not a language but a runtime environment)
 + Python (Good for absolute beginners)
-+ Java (Good for a large organization)
++ **Java** (Good for a large organization)
 + Php (Good for freelancing)
 + Ruby (Less popular in 2020)
 + C#
@@ -108,7 +99,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 ## Server-Side Framework (Choose One)
 + Node.js– Express, Koa, Adonis, Feather.js, Nest.js, Loopback
 + Python: Django, Flask,
-+ Java: Spring MVC, Grails
++ **Java: Spring MVC, Grails**
 + PHP: Laravel, Symfony, Codeignitor, Slim
 + Ruby: Ruby on Rails, Sinatra
 + C#: ASP.NET
@@ -116,7 +107,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + Kotlin: Javalin, KTor
 
 ## Database (Choose One)
-+ Relational Database
++ **Relational Database**
   + PostgreSQL, MySQL, MS SQL
 + NoSQL
   + MongoDB, CouchDB, Elasticsearch
@@ -127,7 +118,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + GraphQL
 
 ## Testing
-Unit Tests
+**Unit Tests**
 Integration Testing
 End-to-End Tests
 
