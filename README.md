@@ -2,7 +2,11 @@
 향후 나아가야 할 방향에 대한 생각.<br>
 2021.06.19 기준
 + 배운 것
-  + Java, Spring Framework, JSP, Eclipse, Unit Tests, Oracle, HTML, CSS, JavaScript, Git, GitHub, Apache, Tomcat
+  + Java
+  + Spring Framework
+    + legacy, boot
+    + IOC(DI, DL), AOP, MVC 
+  + JSP, Eclipse, Unit Tests, Oracle, HTML, CSS, JavaScript, Git, GitHub, Apache, Tomcat
 + 배울 것
   + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
 
