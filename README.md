@@ -135,6 +135,20 @@ End-to-End Tests
 + Traditional CMS: WordPress (PHP), Drupal(PHP), Keystone (JavaScript), Enduro (JavaScript)
 + Headless CMS: (Getting popularity in 2021) Contentful, Prismic.io, Strapi, Sanity.io.
 
+## Deployment & DevOps
++ Hosting Platform: Heroku, Digital Ocean, AWS, Azure., Linode
++ Web Servers: NGINIX, Apache
++ Containers: Docker/Kubernetes, Vagrant
++ Image/Video: Cloudinary, S3
++ CI (Continuous Integration)/CD (Continuous Delivery); Jenkins, Travis CI, Circle CI
+
+
+
+
+
+
+
+
 
 
 
