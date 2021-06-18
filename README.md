@@ -47,17 +47,17 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + Typography (Text typefaces, sizing, etc)
 
 ## JavaScript
-+ JavaScript Fundamentals (variables, functions, loops, arrays, conditionals, etc)
-+ DOM (Document object model)
++ **JavaScript Fundamentals (variables, functions, loops, arrays, conditionals, etc)**
++ **DOM (Document object model)**
 + Array Methods foreach, map, filter, reduce, etc.
-+ JSON (JavaScript Object Notation)
-+ HTTP Requests Fetch API- GET, POST, PUT, DELETE
++ **JSON (JavaScript Object Notation)**
++ **HTTP Requests Fetch API- GET, POST, PUT, DELETE**
 
 ## 다른 주요한 툴들
 + **Git (Version Control) & Github**
 + Browser Dev Tools
 + IDEs or text editors add extensions or plugins 
-+ Learn to use the JavaScript package manager such as NPM and Yarn
++ Learn to use the JavaScript package manager such as **NPM and Yarn**
 + If you want to install NPM packages on the frontend then you have to use JS module bundlers such as Webpack, Parcel, or Rollup.
 + some helpful text editor extensions and helpers. Linting (to find errors), Prettier (to format the code), Live Server, Emmet (to write fast HTML and CSS code), snippets, etc.
 
@@ -72,7 +72,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + CLI and Git.
 
 ## Front-End Framework and State Management
-+ React
++ **React**
 + Vue
 + Angular
 + Svelte
