@@ -4,6 +4,7 @@
   + Java, Eclipse, HTML, CSS, JavaScript, Git, GitHub, Apache, Tomcat
 + 배울 것
   + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
+
 https://roadmap.sh/
 
 https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?ref=leftbar-rightbar
