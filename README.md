@@ -35,7 +35,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
     + rem units
     + Mobile First
   + Custom Reusable CSS Components
-    + **scss**
+    + **SCSS**
   + CSS Frameworks
     + **Bootstrap**
     + Tailwind CSS
@@ -56,7 +56,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + JSON (JavaScript Object Notation)
 + HTTP Requests Fetch API- GET, POST, PUT, DELETE
 
-## Some Important Tools
+## 다른 주요한 툴들
 + Git (Version Control) & Github
 + Browser Dev Tools
 + IDEs or text editors add extensions or plugins 
@@ -64,7 +64,7 @@ https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/?
 + If you want to install NPM packages on the frontend then you have to use JS module bundlers such as Webpack, Parcel, or Rollup.
 + some helpful text editor extensions and helpers. Linting (to find errors), Prettier (to format the code), Live Server, Emmet (to write fast HTML and CSS code), snippets, etc.
 
-## Basic Frontend Deployment
+## Basic Frontend 배포
 + Domain Registration (Namecheap, Google Domains, etc.)
 + Managed Hosting (InMotion, Hostgator, Bluehost, etc)
 + Static Hosting (Netlify, GitHub Pages)
