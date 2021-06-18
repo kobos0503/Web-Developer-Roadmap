@@ -1,5 +1,6 @@
 # Web-Developer-Roadmap
 향후 나아가야 할 방향에 대한 생각.<br>
+2021.06.19 기준
 + 배운 것
   + Java, Eclipse, HTML, CSS, JavaScript, Git, GitHub, Apache, Tomcat
 + 배울 것
