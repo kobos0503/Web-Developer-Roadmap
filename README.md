@@ -8,7 +8,7 @@
     + Spring Legacy
     + Spring Boot
     + Spring MVC
-    + + Mybatis
+    + Spring + Mybatis
     + Spring Seurity
     + Spring Rest
   + 데이터베이스
