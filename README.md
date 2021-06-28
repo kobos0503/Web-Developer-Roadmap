@@ -4,7 +4,20 @@
 + 배운 것
   + 백엔드 언어
     + Java
-    + Spring Legacy, Spring Boot, Spring Security, JSP, Eclipse, Unit Tests, JUnit, Oracle, HTML, CSS, JavaScript, Jquery, Git, GitHub, Apache, Tomcat
+  + 백엔드 프레임워크
+    + Spring (Legacy, Boot, Seurity)
+  + 데이터베이스
+    + Oracle
+  + 프론트엔드
+    + HTML, CSS, JavaScript, Jquery, JSP, Servlet
+  + 형상관리
+    + GitHub, gitbash
+  + 단위테스트
+    + JUnit
+  + IDE
+    + 이클립스
+  + WAS
+    + Apache, Tomcat
 + 배울 것, 배우고 싶은 것
   + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
 
