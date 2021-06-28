@@ -5,19 +5,27 @@
   + 백엔드 언어
     + Java
   + 백엔드 프레임워크
-    + Spring (Legacy, Boot, Seurity)
+    + Spring Legacy
+    + Spring Boot
+    + Spring Seurity
+    + Spring Rest
   + 데이터베이스
     + Oracle
   + 프론트엔드
-    + HTML, CSS, JavaScript, Jquery, JSP, Servlet
+    + HTML
+    + CSS
+    + JavaScript
+    + Jquery
+    + JSP, Servlet
   + 형상관리
-    + GitHub, gitbash
+    + GitHub
+    + gitbash
   + 단위테스트
     + JUnit
   + IDE
     + 이클립스
   + WAS
-    + Apache, Tomcat
+    + Apache&Tomcat
 + 배울 것, 배우고 싶은 것
   + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
 
