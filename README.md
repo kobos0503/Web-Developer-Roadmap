@@ -2,7 +2,9 @@
 향후 나아가야 할 방향에 대한 생각.<br>
 2021.06.19 기준
 + 배운 것
-  + Java, Spring Legacy, Spring Boot, Spring Security, JSP, Eclipse, Unit Tests, JUnit, Oracle, HTML, CSS, JavaScript, Jquery, Git, GitHub, Apache, Tomcat
+  + 백엔드 언어
+    + Java
+    + Spring Legacy, Spring Boot, Spring Security, JSP, Eclipse, Unit Tests, JUnit, Oracle, HTML, CSS, JavaScript, Jquery, Git, GitHub, Apache, Tomcat
 + 배울 것, 배우고 싶은 것
   + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
 
