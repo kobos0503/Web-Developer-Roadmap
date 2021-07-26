@@ -18,7 +18,7 @@
     + CSS
     + JavaScript
     + Jquery
-    + JSP, Servlet
+    + JSP
   + 형상관리
     + GitHub
     + gitbash
@@ -29,7 +29,7 @@
   + WAS
     + Apache&Tomcat
 + 배울 것, 배우고 싶은 것
-  + VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
+  + Thymeleaf, VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
 
 https://roadmap.sh/
 
