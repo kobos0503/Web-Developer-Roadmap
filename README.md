@@ -8,7 +8,7 @@
     + Spring Legacy
     + Spring Boot
     + Spring MVC
-    + Spring + Mybatis
+    + Spring Mybatis
     + Spring Seurity
     + Spring Rest
   + 데이터베이스
@@ -29,7 +29,7 @@
   + WAS
     + Apache&Tomcat
 + 배울 것, 배우고 싶은 것
-  + Thymeleaf, VSCode, React, SCSS, AWS or AZURE or GCP, data structures, algorithms
+  + Thymeleaf, JPA, AWS or AZURE or GCP, data structures, algorithms
 
 https://roadmap.sh/
 
