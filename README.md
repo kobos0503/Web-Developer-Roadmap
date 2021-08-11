@@ -1,6 +1,6 @@
 # Web-Developer-Roadmap
 향후 나아가야 할 방향에 대한 생각.<br>
-2021.06.19 기준
+2021.08.11 기준
 + 배운 것
   + 백엔드 언어
     + Java
@@ -19,6 +19,7 @@
     + JavaScript
     + Jquery
     + JSP
+    + Thymeleaf
   + 형상관리
     + GitHub
     + gitbash
@@ -29,7 +30,7 @@
   + WAS
     + Apache&Tomcat
 + 배울 것, 배우고 싶은 것
-  + Thymeleaf, JPA, AWS or AZURE or GCP, data structures, algorithms
+  + JPA, AWS or AZURE or GCP, data structures, algorithms
 
 https://roadmap.sh/
 
