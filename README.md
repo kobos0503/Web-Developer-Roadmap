@@ -8,9 +8,9 @@
     + Spring Legacy
     + Spring Boot
     + Spring MVC
-    + Spring Mybatis
     + Spring Seurity
     + Spring Rest
+    + Mybatis
   + 데이터베이스
     + Oracle
   + 프론트엔드
