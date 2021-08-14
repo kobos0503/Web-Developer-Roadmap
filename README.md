@@ -4,8 +4,8 @@
 + 배울 것, 배우고 싶은 것
   + JPA
   + 자료구조, 알고리즘
-  + Cloud(AWS or AZURE or GCP)
-  + IntelliJ(돈 벌면 ㄱㄱ)
+  + Cloud (AWS or AZURE or GCP)
+  + IntelliJ (돈 벌면 ㄱㄱ)
 + 배운 것
   + 백엔드 언어
     + Java
