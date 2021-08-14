@@ -6,7 +6,7 @@
   + 자료구조, 알고리즘, 디자인 패턴
   + Cloud (AWS or AZURE or GCP)
   + CI/CD
-  + NoSql
+  + NoSQL
   + IntelliJ (돈 벌면 ㄱㄱ)
 + 배운 것
   + 백엔드 언어
