@@ -2,7 +2,10 @@
 향후 나아가야 할 방향에 대한 생각.<br>
 2021.08.11 기준
 + 배울 것, 배우고 싶은 것
-  + JPA, Cloud(AWS or AZURE or GCP), 자료구조, 알고리즘
+  + JPA
+  + 자료구조, 알고리즘
+  + Cloud(AWS or AZURE or GCP)
+  + IntelliJ(돈 벌면 ㄱㄱ)
 + 배운 것
   + 백엔드 언어
     + Java
